@@ -2,3 +2,5 @@
 J'ai ajouté une ligne au fichier depuis Git
 Ici une ligne depuis github
 Essayons une update du fichier avec git
+
+Site internet pour savoir comment utiliser tout ça : http://rogerdudler.github.io/git-guide/
