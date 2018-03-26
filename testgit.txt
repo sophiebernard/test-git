@@ -1,1 +1,2 @@
 Ceci est un fichier test pour essayer Git et Github
+J'ai ajouté une ligne au fichier
